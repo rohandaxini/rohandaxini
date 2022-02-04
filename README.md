@@ -1,4 +1,4 @@
-### Hi <img src="wave.gif" width="30px">, I'm Rohan
+### Hi, nice to see you <img src="wave.gif" width="30px"> 
 
 I am a **Software Engineer** with 20+ years of industry experience crafting custom software applications for international businesses in varied roles as CTO, Program Manager, Architect, Technical Lead, and Full-stack developer. 
 
