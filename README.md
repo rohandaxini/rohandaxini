@@ -1,4 +1,4 @@
-### Hi, nice to see you <img src="wave.gif" width="30px"> 
+<h2> Hi, nice to see you <img src="wave.gif" width="30px"> </h2>
 
 I am a **Software Engineer** with 20+ years of industry experience crafting custom software applications for international businesses in varied roles as CTO, Program Manager, Architect, Technical Lead, and Full-stack developer. 
 
@@ -7,30 +7,22 @@ I am a **Software Engineer** with 20+ years of industry experience crafting cust
 - 👯 &nbsp;I'm looking for open source collaboration
 - 💬 &nbsp;Ask me about **Ruby on Rails, SaaS, Enterprise Software, Scaling products & engineering teams, and Entrepreneurship**, I'm happy to help
 - 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/)
-- ⚡ &nbsp;I write code without drinking coffee and I play 🎸
-
+- ⚡ &nbsp;I write code without drinking coffee. When I am not working, I am learning 🎸
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohandaxini&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-</p><br />
+<img src="https://github-readme-stats.vercel.app/api?username=rohandaxini&show_icons=true&theme=default" alt="GitHub Stats" />
 
-<p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohandaxini/">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="36" />
-  </a> &ensp;
-  <a href="https://twitter.com/rohan_daxini">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="38" />
-  </a> &ensp;
-<!--   <a href="https://stackoverflow.com/users/840272/rohan-daxini">
-    <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode Blog" width="36" />
-  </a> &ensp; -->
-  <a href="https://medium.com/@rohan_daxini">
-    <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="36" />
-  </a> &ensp;
-  <a href="https://www.instagram.com/rohan_daxini">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="36" />
-  </a>
-</p><br />
+<h3> To code and ship, I use these technologies and platforms </h3>
+<p>
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
