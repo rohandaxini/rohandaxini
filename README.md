@@ -1,6 +1,6 @@
 <h2> Hi, nice to see you <img src="wave.gif" width="30px"> </h2>
 
-I am a **Software Engineer** with 20+ years of industry experience crafting custom software applications for international businesses in varied roles as CTO, Program Manager, Architect, Technical Lead, and Full-stack developer. 
+I am a **Software Engineer** crafting enterprise software and SaaS products for international businesses.
 
 - 🏢 &nbsp;I'm also Founder & CEO at [Kiprosh](https://kiprosh.com/), a software product development, remote-friendly and calm company headquartered in Mumbai, India with an office in Chicago, USA. I founded Kiprosh in the year 2010
 - 🌱 &nbsp;I'm currently learning latest [Rails](https://rubyonrails.org/) features [Hotwire](https://hotwired.dev/) and [Turbo](https://turbo.hotwired.dev/)
