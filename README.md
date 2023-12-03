@@ -7,7 +7,6 @@ I am currently heading tech at [LawLytics](https://www.lawlytics.com/), building
 - 💬 &nbsp;Ask me about **Ruby, Rails, SaaS, Enterprise Software, Entrepreneurship, M&A, Scaling Products & Engineering Teams**, I'm happy to help
 - 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/)
 - ⚡ &nbsp;When I am not working, I am learning 🎸
-<br />
 
 <h3> To code and ship, I use these technologies and platforms </h3>
 <p>
