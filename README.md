@@ -1,15 +1,13 @@
-<h2> Hi, nice to see you <img src="wave.gif" width="30px"> </h2>
+<h2> Hi, nice to meet you <img src="wave.gif" width="30px"> </h2>
 
-I am a **Software Engineer** crafting enterprise software and SaaS products for international businesses.
+I am currently heading tech at [LawLytics](https://www.lawlytics.com/), building and scaling software solutions for USA-based Law Firms.
 
-- 🏢 &nbsp;I'm also Founder & CEO at [Kiprosh](https://kiprosh.com/), a software product development, remote-friendly and calm company headquartered in Mumbai, India with an office in Chicago, USA. I founded Kiprosh in the year 2010
+- 🏢 &nbsp;I was Founder & ex-CEO at [Kiprosh](https://kiprosh.com/), a software development, remote-friendly and calm company now merged with LawLytics Inc. USA. I founded Kiprosh in the year 2010 and led to its successful merger with LawLytics in 2022
 - 🌱 &nbsp;I'm currently learning latest [Rails](https://rubyonrails.org/) features [Hotwire](https://hotwired.dev/) and [Turbo](https://turbo.hotwired.dev/)
-- 💬 &nbsp;Ask me about **Ruby on Rails, SaaS, Enterprise Software, Entrepreneurship, Scaling Products & Engineering Teams**, I'm happy to help
+- 💬 &nbsp;Ask me about **Ruby, Rails, SaaS, Enterprise Software, Entrepreneurship, M&A, Scaling Products & Engineering Teams**, I'm happy to help
 - 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/)
 - ⚡ &nbsp;When I am not working, I am learning 🎸
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohandaxini&show_icons=true&theme=default" alt="GitHub Stats" />
 
 <h3> To code and ship, I use these technologies and platforms </h3>
 <p>
