@@ -1,6 +1,6 @@
 <h2> Hi, nice to meet you <img src="wave.gif" width="30px"> </h2>
 
-I am currently heading tech at [LawLytics](https://www.lawlytics.com/), building and scaling software solutions for USA-based Law Firms.
+I am currently heading tech at [LawLytics](https://www.lawlytics.com/), building and scaling software solutions for USA & Australia based Law Firms.
 
 - 🏢 &nbsp;I was Founder & ex-CEO at [Kiprosh](https://kiprosh.com/), a software development, remote-friendly and calm company now merged with LawLytics Inc. USA. I founded Kiprosh in the year 2010 and led to its successful merger with LawLytics in 2022
 - 🌱 &nbsp;I'm currently learning latest [Rails](https://rubyonrails.org/) features [Hotwire](https://hotwired.dev/) and [Turbo](https://turbo.hotwired.dev/)
