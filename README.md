@@ -4,7 +4,7 @@ As a CTO, I am currently heading tech at [LawLytics](https://www.lawlytics.com/)
 
 - 🏢 &nbsp;I was Founder & ex-CEO at [Kiprosh](https://kiprosh.com/), a remote-friendly and calm software company. I founded Kiprosh in the year 2010 and led to its successful merger with LawLytics USA in 2022.
 - 🚀  &nbsp;I am a product-focused engineer building AI-powered apps with Rails and LLMs. I care about fast feedback, clean APIs, and shipping value.
-- 💬 &nbsp;Ask me about **Ask me about product-led AI, systems architecture, and growing engineering orgs.**, I'm happy to help.
+- 💬 &nbsp;Ask me about **product-led AI, systems architecture, and growing engineering orgs.**, I'm happy to help.
 - 📚 &nbsp;Outside work you’ll find me reading books, exploring ideas, cycling, trekking trails, and playing guitar. 🧭🚴‍♂️🥾🎸
 - 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/).
 
