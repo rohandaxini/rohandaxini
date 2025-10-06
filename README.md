@@ -6,7 +6,7 @@ As a CTO, I am currently heading tech at [LawLytics](https://www.lawlytics.com/)
 - 🚀  &nbsp;Product-focused engineer building AI-powered apps with Rails and LLMs. I care about fast feedback, clean APIs, and shipping value.
 - 💬 &nbsp;Ask me about **Ask me about product-led AI, systems architecture, and growing engineering orgs.**, I'm happy to help.
 - 📚 &nbsp;Outside work you’ll find me reading books, exploring ideas, cycling, trekking trails, and playing guitar. 🧭🚴‍♂️🥾🎸
-- 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/)
+- 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/).
 
 <h3> To code and ship, I use these technologies and platforms </h3>
 <p>
