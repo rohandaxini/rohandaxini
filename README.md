@@ -3,10 +3,10 @@
 As a CTO, I am currently heading tech at [LawLytics](https://www.lawlytics.com/), building and scaling software solutions for our US, Australia and UK-based Law Firms.
 
 - 🏢 &nbsp;I was Founder & ex-CEO at [Kiprosh](https://kiprosh.com/), a software development, remote-friendly and calm company. I founded Kiprosh in the year 2010 and led to its successful merger with LawLytics USA in 2022.
-- 🌱 &nbsp;I'm currently learning latest [Rails](https://rubyonrails.org/) features [Hotwire](https://hotwired.dev/) and [Turbo](https://turbo.hotwired.dev/).
-- 💬 &nbsp;Ask me about **Ruby, Rails, SaaS, Enterprise Software, Entrepreneurship, M&A, Scaling Products & Engineering Teams**, I'm happy to help.
+- 🚀  &nbsp;Product-focused engineer building AI-powered apps with Rails and LLMs. I care about fast feedback, clean APIs, and shipping value.
+- 💬 &nbsp;Ask me about **Ask me about product-led AI, systems architecture, and growing engineering orgs.**, I'm happy to help.
 - 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/)
-- ⚡ &nbsp;When I am not working, I am learning 🎸
+- ⚡ &nbsp;Outside work you’ll find me exploring ideas, cycling, trekking trails, and playing guitar. 🧭🚴‍♂️🥾🎸
 
 <h3> To code and ship, I use these technologies and platforms </h3>
 <p>
