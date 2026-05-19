@@ -2,7 +2,7 @@
 
 I’m currently serving as CTO at [LawLytics](https://www.lawlytics.com/), where I lead engineering and help build scalable software solutions for law firms across the US and Australia.
 
-- 🏢 &nbsp;Previously, I founded Kiprosh in 2010 [Kiprosh](https://kiprosh.com/), a remote-friendly and calm software company that later merged with LawLytics in 2022.
+- 🏢 &nbsp;Previously, I founded [Kiprosh](https://kiprosh.com/) in 2010, a remote-friendly and calm software company that later merged with LawLytics in 2022.
 - 🚀  &nbsp;I’m a product-focused engineer building AI-powered applications using Rails, LLMs, and modern cloud technologies. I care deeply about fast feedback loops, clean architecture, thoughtful APIs, and shipping real customer value.
 - 💬 &nbsp;Happy to discuss product-led AI, systems architecture, engineering leadership, scaling teams, and building sustainable engineering cultures.
 - 📚 &nbsp;Outside of work, you’ll usually find me reading, cycling, trekking trails, or playing guitar. 🧭🚴‍♂️🥾🎸
