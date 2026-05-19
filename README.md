@@ -1,12 +1,12 @@
 <h2> Hi, nice to meet you <img src="wave.gif" width="30px"> </h2>
 
-As a CTO, I am currently heading tech at [LawLytics](https://www.lawlytics.com/), building and scaling software solutions for our US, Australia and UK-based Law Firms.
+I’m currently serving as CTO at [LawLytics](https://www.lawlytics.com/), where I lead engineering and help build scalable software solutions for law firms across the US and Australia.
 
-- 🏢 &nbsp;I was Founder & ex-CEO at [Kiprosh](https://kiprosh.com/), a remote-friendly and calm software company. I founded Kiprosh in the year 2010 and led to its successful merger with LawLytics USA in 2022.
-- 🚀  &nbsp;I am a product-focused engineer building AI-powered apps with Rails and LLMs. I care about fast feedback, clean APIs, and shipping value.
-- 💬 &nbsp;Ask me about **product-led AI, systems architecture, and growing engineering orgs.**, I'm happy to help.
-- 📚 &nbsp;Outside work you’ll find me reading books, exploring ideas, cycling, trekking trails, and playing guitar. 🧭🚴‍♂️🥾🎸
-- 📫 &nbsp;Reach me through [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/).
+- 🏢 &nbsp; Previously, I founded Kiprosh in 2010 [Kiprosh](https://kiprosh.com/), a remote-friendly and calm software company that later merged with LawLytics in 2022.
+- 🚀  &nbsp;I’m a product-focused engineer building AI-powered applications using Rails, LLMs, and modern cloud technologies. I care deeply about fast feedback loops, clean architecture, thoughtful APIs, and shipping real customer value.
+- 💬 &nbsp;Happy to discuss product-led AI, systems architecture, engineering leadership, scaling teams, and building sustainable engineering cultures.
+- 📚 &nbsp;Outside of work, you’ll usually find me reading, cycling, trekking trails, or playing guitar. 🧭🚴‍♂️🥾🎸
+- 📫 &nbsp;Reach me via [Twitter](https://twitter.com/rohan_daxini) or [Linkedin](https://www.linkedin.com/in/rohandaxini/).
 
 <h3> To code and ship, I use these technologies and platforms </h3>
 <p>
